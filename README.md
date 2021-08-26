@@ -11,8 +11,7 @@ my first github project
     <p>
       first tym experience with github
     </p>
-    <marquee>
-      hy myself himanshu
-    </marquee>
+  <marquee>This is basic example of marquee</marquee>
+      <marquee direction = "up">The direction of text will be from bottom to top.</marquee>
   </body
   </html>
